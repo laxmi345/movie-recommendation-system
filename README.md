@@ -63,4 +63,4 @@ An intelligent, interactive **Content-Based Movie Recommendation Engine** that r
 
 ## 👤 Author
 * **Developer:** Laxmi Sahu ([@laxmi345](https://github.com/laxmi345))
-* **Portfolio:** [portfolio-laxmisahu.vercel.app](https://portfolio-laxmisahu.vercel.app/)
+* **Deployment:** [Streamlit Community Cloud](https://laxmi-movie-recommend.streamlit.app)
