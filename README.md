@@ -1,6 +1,6 @@
 ﻿# 🎬 Movie Recommendation System
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://movie-recommendation-system-6e7dermn2m6etazhwn3g4m.streamlit.app/)
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)
 [![Scikit-Learn](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-F7931E.svg)](https://scikit-learn.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
@@ -46,6 +46,10 @@ An intelligent, interactive **Content-Based Movie Recommendation Engine** that r
    ```
 
 ---
+
+## 🌐 Live Interactive App
+
+👉 **Live Demo:** [movie-recommendation-system-6e7dermn2m6etazhwn3g4m.streamlit.app](https://movie-recommendation-system-6e7dermn2m6etazhwn3g4m.streamlit.app/)
 
 ## 🌐 Deploy to Streamlit Community Cloud (Free)
 
